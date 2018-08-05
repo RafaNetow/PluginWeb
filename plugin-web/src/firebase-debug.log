@@ -1,0 +1,13 @@
+[debug] [2018-08-05T09:14:48.433Z] ----------------------------------------------------------------------
+[debug] [2018-08-05T09:14:48.435Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Rafae\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2018-08-05T09:14:48.435Z] CLI Version:   3.19.3
+[debug] [2018-08-05T09:14:48.435Z] Platform:      win32
+[debug] [2018-08-05T09:14:48.436Z] Node Version:  v8.11.2
+[debug] [2018-08-05T09:14:48.436Z] Time:          Sun Aug 05 2018 03:14:48 GMT-0600 (Central America Standard Time)
+[debug] [2018-08-05T09:14:48.436Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-05T09:14:48.445Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-05T09:14:48.446Z] > authorizing via signed-in user
+[debug] [2018-08-05T09:14:48.448Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/pluginweb-e1ffc  
+  
+ Sun Aug 05 2018 03:14:48 GMT-0600 (Central America Standard Time)
